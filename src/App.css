@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.circus-primary-btn {
+  background-color: #e70052;
+  color: white;
+}
+
+.circus-primary-btn:hover {
+  background-color: white;
+  border: solid 1px #e70052;
+  color: #e70052;
+}
